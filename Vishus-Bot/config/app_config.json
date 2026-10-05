@@ -1,0 +1,7 @@
+{
+  "_comment": "Public, shippable config. SAFE to commit and bundle in the .exe. Contains only the Supabase project URL and the PUBLISHABLE (anon) key — never a service-role/secret key. Per-user secrets live in api_keys.json (gitignored), not here.",
+  "supabase_url": "https://eeucheqgfwhvmqpzpwzf.supabase.co",
+  "supabase_anon_key": "sb_publishable_cNHX32KwhLSl-nCLj-egfw_pwKQZy5G",
+  "bundled_gemini_api_key": "",
+  "bundled_openrouter_api_key": ""
+}

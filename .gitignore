@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+# API keys
+vishus_bot/config/api_keys.json
+Vishus-Bot/config/api_keys.json
+
+# API keys and secrets
+**/config/api_keys.json
